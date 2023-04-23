@@ -4,7 +4,7 @@
 `Algorithm`
 `Data structure`
 
-[YOU MUST KNOW SO MUCH ABOUT ALGORITHM TIME COMPLEXITY](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png)
+![YOU MUST KNOW SO MUCH ABOUT ALGORITHM TIME COMPLEXITY](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png)
 
 # Background Context
 
